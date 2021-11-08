@@ -13,6 +13,8 @@ function DataTable() {
     totalPages: 0,
   });
 
+  
+
   useEffect(() => {
     axios
       .get(`${BASE_URL}/sales?page=1&size=20&sort=date,desc`)
