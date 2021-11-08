@@ -60,9 +60,4 @@ function DataTable() {
 }
 
 export default DataTable;
-function formatLocalData(
-  date: string,
-  arg1: string
-): import("react").ReactNode {
-  throw new Error("Function not implemented.");
-}
+
