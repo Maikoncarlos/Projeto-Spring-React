@@ -2,7 +2,7 @@ import Routes from "Routes";
 
 function App() {
   return (
-    <Routes />
+    <h1>Página Principal</h1>
   );
 }
 
